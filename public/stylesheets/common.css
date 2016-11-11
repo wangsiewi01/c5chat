@@ -4,7 +4,6 @@ body{
     width: 100%;
     position: absolute;
     float: left;
-    background: url("../images/bj.png") repeat-x #b8b6b6;
 }
 a{
     text-decoration: none;
@@ -59,9 +58,9 @@ button{
 .big {
     padding: 0 40px;
     padding-top: 10px;
-    height: 45px;
+    height: 25px;
     text-transform: uppercase;
-    font: bold 20px/22px Arial, sans-serif;
+    font: bold 15px/18px Arial, sans-serif;
 }
 
 .big span {
